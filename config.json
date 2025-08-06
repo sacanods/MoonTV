@@ -88,8 +88,13 @@
   },
   "custom_category": [
     {
-      "name": "冻鳗",
-      "type": "movie",
+      "name": "动画",
+      "type": "tv",
+      "query": "国产动画"
+    },
+    {
+      "name": "动画",
+      "type": "tv",
       "query": "日本动画"
     }
   ]
