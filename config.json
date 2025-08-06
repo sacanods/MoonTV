@@ -86,11 +86,11 @@
       "name": "小猫咪资源"
     }
   },
-    "custom_category": [
+  "custom_category": [
     {
       "name": "冻鳗",
       "type": "movie",
       "query": "日本动画"
-    },
+    }
   ]
 }
